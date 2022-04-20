@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.ticket3740teste2",
+  "displayName": "ticket 3740 teste 2",
+  "version": "1.0.0",
+  "description": "ticket 3740 teste 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}

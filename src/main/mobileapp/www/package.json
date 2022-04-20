@@ -1,0 +1,17 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "main": "cordova.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cronapi-js": "^2.8.25",
+    "cronapp-common-js": "^2.8.13",
+    "cronapp-framework-mobile-js": "^2.8.14"
+  }
+}
